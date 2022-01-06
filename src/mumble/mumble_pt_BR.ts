@@ -4507,7 +4507,7 @@ Essa configuração só se aplica para novas mensagens. As mensagens já exibida
     </message>
     <message>
         <source>Channel Hierarchy String</source>
-        <translation type="unfinished"></translation>
+        <translation>Sequência de hierarquia do canal</translation>
     </message>
     <message>
         <source>Search</source>
